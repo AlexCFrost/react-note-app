@@ -1,1 +1,1 @@
-# react-note-app
+Simple react note taking app
